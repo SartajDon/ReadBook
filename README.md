@@ -22,6 +22,9 @@ wget https://gist.githubusercontent.com/deekayen/4148741/raw/98d35708fa344717d8e
 
 4. change your book name which words you
 want to find out to abcd.txt 
-5.run the code.
+
+5. cd ReadBook
+
+5.run: python3 words_finder.py
 
           This should work
