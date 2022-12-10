@@ -12,11 +12,11 @@ with open ("hunger_games.txt","r") as file_object:
 
     #to remove special characters
     import re
-    new_hg_list =[re.sub('[^a-zA-Z0-9]+', '', _) for _ in lower_reduced_set_list]
+    new_hg_list =[re.sub('[^a-zA-Z]+', '', _) for _ in lower_reduced_set_list]
 
 
 #opening common_words.txt as list
-with open ("common_words.txt" , "r") as sec_file_object:
+with open ("1-1000.txt" , "r") as sec_file_object:
     sec_word_list = sec_file_object.read().split()
 
     #lowercase list making
