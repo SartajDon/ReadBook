@@ -1,5 +1,5 @@
 #opening humgergamest.txt as list
-with open ("hunger_games.txt","r") as file_object:
+with open ("abcd.txt","r") as file_object:
 
     word_list = file_object.read().split()
     #lower case list making
