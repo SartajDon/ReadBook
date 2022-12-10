@@ -8,7 +8,7 @@ Technical things
 .txt format.
 
 2. Put that book in same directory where 
-main.py code is
+words_finder.py is
           or 
 Do something advance people do by providing
 A directory.I don't know what that is called.
