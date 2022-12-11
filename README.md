@@ -21,7 +21,8 @@ which I have used in my code
         or 
 Here is direct link:
 wget https://gist.githubusercontent.com/deekayen/4148741/raw/98d35708fa344717d8eee15d11987de6c8e26d7d/1-1000.txt
-
+Note: point 4 is not required anymore.I have put 
+that file there
 5. change your book name which words you
 want to find out to abcd.txt 
 
