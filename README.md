@@ -8,7 +8,8 @@ Technical things
 .txt format.
 
 2. Cope and paste below :
-       git clone https://github.com/xcodesource/ReadBook
+      [ git clone https://github.com/xcodesource/ReadBook ]
+
 
 3. Put that book in same directory where 
 words_finder.py is
