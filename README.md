@@ -7,7 +7,8 @@ Technical things
 1. Make sure you have a book/document/file etc in 
 .txt format.
 
-2. (git clone https://github.com/xcodesource/ReadBook)
+2. Cope and paste below :
+git clone https://github.com/xcodesource/ReadBook
 
 3. Put that book in same directory where 
 words_finder.py is
@@ -24,8 +25,10 @@ want to find out to abcd.txt
 6. Move your book into ReadBook using 'mv' 
 Command
 
-7. cd ReadBook
+7. 
+        cd ReadBook
 
-8. run: python3 words_finder.py
+8. run: 
+      python3 words_finder.py
 
           This should work
