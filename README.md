@@ -7,27 +7,29 @@ Technical things
 1. Make sure you have a book/document/file etc in 
 .txt format.
 
-2. Put that book in same directory where 
+2. git clone https://github.com/xcodesource/ReadBook
+
+3. Put that book in same directory where 
 words_finder.py is
           or 
 Do something advance people do by providing
 A directory.I don't know what that is called.
 
-3. Download 1000 common words from this person
+4. Download 1000 common words from this person
 https://gist.github.com/deekayen/4148741#file-1-1000-txt
 which I have used in my code
         or 
 Here is direct link:
 wget https://gist.githubusercontent.com/deekayen/4148741/raw/98d35708fa344717d8eee15d11987de6c8e26d7d/1-1000.txt
 
-4. change your book name which words you
+5. change your book name which words you
 want to find out to abcd.txt 
 
-5. Move your book into ReadBook using 'mv' 
+6. Move your book into ReadBook using 'mv' 
 Command
 
-6. cd ReadBook
+7. cd ReadBook
 
-7. run: python3 words_finder.py
+8. run: python3 words_finder.py
 
           This should work
